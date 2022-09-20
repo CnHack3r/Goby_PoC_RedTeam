@@ -1,5 +1,5 @@
-# Goby_PoC_RedTeam
-## 致力于收集网络上泄露的Goby红队版
+# Goby_PoC
+## 致力于收集网络上泄露的Goby PoC
 
 
 | 压缩包 | 内容 | PoC个数 |
